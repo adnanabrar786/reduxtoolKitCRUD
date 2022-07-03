@@ -1,0 +1,6 @@
+reduxtoolkit CRUD 
+
+https://www.youtube.com/watch?v=bml92jhF4t8
+
+github 
+https://github.com/machadop1407/redux-crud-react
